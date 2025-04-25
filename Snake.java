@@ -39,7 +39,7 @@ public class Snake extends Actor
         int num = Greenfoot.getRandomNumber(2);
         if (num==0)
         {
-            setLocation(600,300);
+            setLocation(600,200);
         } else {
             setLocation(600,100);
         }
