@@ -7,6 +7,6 @@ public class MyWorld extends World {
         addObject(human, 100, 100);
         
         Bee bee = new Bee();
-        addObject(bee, 100, 300);
+        addObject(bee, 500, 300);
     }
 }
