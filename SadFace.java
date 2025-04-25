@@ -7,10 +7,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @version (a version number or a date)
  */
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 3780de205bcd28a92b7745e0197f10c417158fdc
 public class SadFace extends Actor
 
 {

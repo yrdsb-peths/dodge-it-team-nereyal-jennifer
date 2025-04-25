@@ -8,5 +8,8 @@ public class MyWorld extends World {
         
         Bee bee = new Bee();
         addObject(bee, 500, 300);
+        
+        BackgroundTest background = new BackgroundTest();
+        addObject(background, 600, 600);
     }
 }
