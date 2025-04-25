@@ -23,6 +23,8 @@ public class Bee extends Actor
         
         if (isTouching(Human.class))
         {
+            SadFace sadFace = new SadFace();
+            getWorld().addObject(sadFace, 300, 200);
             getWorld().removeObject(this);
         }
     }
