@@ -17,8 +17,9 @@ public class SadFace extends Actor
      */
     public SadFace()
     {
-        setImage("image/smiley3.png");
+        setImage("images/smiley3.png");
     }
+    
     public void act()
     {
         // Add your action code here.
